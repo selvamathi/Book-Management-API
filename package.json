@@ -1,0 +1,19 @@
+{
+  "name": "book_management_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
